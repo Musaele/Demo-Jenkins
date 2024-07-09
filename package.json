@@ -1,0 +1,11 @@
+{
+  "name": "mocha-tests-demo",
+  "version": "1.0.0",
+  "description": "a demo for running mocha tests",
+  "resolutions": {},
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}

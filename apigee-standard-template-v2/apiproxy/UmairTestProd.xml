@@ -1,0 +1,13 @@
+<APIProxy revision="4" name="UmairTestProd">
+    <DisplayName></DisplayName>
+    <Description></Description>
+    <CreatedAt>1689159084758</CreatedAt>
+    <LastModifiedAt>1689159084758</LastModifiedAt>
+    <BasePaths>/umairtestprod</BasePaths>
+    <Policies>
+        <Policy>AM-SetJsonVariables</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+</APIProxy>
